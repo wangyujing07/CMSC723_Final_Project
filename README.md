@@ -2,6 +2,7 @@ CMSC723_Final_Project
 =====================
 
 Final project repo for 2014 Fall CMSC723.
+
 Twitter application management:
 
 https://apps.twitter.com
@@ -15,7 +16,9 @@ pip install tweepy
 You may also use Git to clone the repository from Github and install it manually:
 
 git clone https://github.com/tweepy/tweepy.git
+
 cd tweepy
+
 python setup.py install
 
 Tweepy documentation:
